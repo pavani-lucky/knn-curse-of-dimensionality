@@ -9,7 +9,7 @@ This repository contains the code and report for a tutorial exploring how the K-
 
 - `knn_curse_of_dimensionality.ipynb`  
   Jupyter notebook with all experiments and code required to reproduce the figures in the tutorial.  
-- `report/knn_curse_of_dimensionality.pdf`  
+- `knn_curse_of_dimensionality.pdf`  
   Written tutorial (under 2000 words) aimed at students learning KNN and the curse of dimensionality.[web:46]  
 - `LICENSE`  
   Licence file describing how the code and text can be reused.  
